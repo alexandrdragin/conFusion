@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('confusionApp',[])
+angular.module('confusionApp', [])
   .controller('menuController', function() {
 
     this.tab = 1;
